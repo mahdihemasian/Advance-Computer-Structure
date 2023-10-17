@@ -25,8 +25,6 @@ The Single-Cycle Processor project aims to develop a processor featuring a singl
 
 # Pipelined Processor
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-
 This project implements a pipelined processor architecture with memory delay and cache to improve throughput and execution speed.
 
 ## Table of Contents
