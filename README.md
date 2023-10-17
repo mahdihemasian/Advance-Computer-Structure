@@ -1,8 +1,4 @@
-# Advance-Computer-Structure
-
 # Single-Cycle Processor
-
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 This project implements a single-cycle processor architecture to enhance efficiency and speed in executing instructions.
 
@@ -10,10 +6,7 @@ This project implements a single-cycle processor architecture to enhance efficie
 - [Project Overview](#project-overview)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+
 
 ## Project Overview
 
@@ -27,4 +20,5 @@ The Single-Cycle Processor project aims to develop a processor featuring a singl
 
 ## Installation
 
-1. Clone the repository:
+1. Clone the repository
+2. Use ModelSim to compile & simulate code
